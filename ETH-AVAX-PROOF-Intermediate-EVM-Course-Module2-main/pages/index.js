@@ -163,7 +163,7 @@ return (
   }, []);
 
   return (
-    <main className="ARYAN VISHWAKARMA">
+    <main className="VICKY">
       <h1>
         <marquee width="60%" direction="Left" height="80%">
         Welcome to Metacrafters ATM, where your banking journey begins with a warm greeting!
@@ -173,7 +173,7 @@ return (
 
       {initUser()}
       <style jsx>{`
-        .ARYAN {
+        .VICKY {
           background-image: url("https://images.unsplash.com/photo-1536514498073-50e69d39c6cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBza3l8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
           background-position: center;
           background-size: cover;

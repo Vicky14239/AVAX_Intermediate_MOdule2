@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 import crypto_making_tree_abi from "../artifacts/contracts/Frontend.sol/Frontend.json";
 
 export default function Homepage() {
-  const [meMessage, setMeMessage] = useState("Account Holder Name: ARYAN VISHWAKARMA");
+  const [meMessage, setMeMessage] = useState("Account Holder Name: VICKY KUMAR");
   const [defaultAccount, setDefaultAccount] = useState(undefined);
   const [balance, setBalance] = useState(undefined);
   const [ethWallet, setEthWallet] = useState(undefined);
